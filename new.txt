@@ -1,9 +1,5 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 hai
 hello
-=======
->>>>>>> parent of ad58fcf ( added file)
-=======
+
 hai
->>>>>>> parent of 694d33c (updated)
