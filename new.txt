@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 hai
 hello
+=======
+>>>>>>> parent of ad58fcf ( added file)
